@@ -2,9 +2,12 @@
 *Présentation pour l'APP ISEP 2013-2014*
 
 Sources:
-Très inspiré de [cette introduction](http://www.uml-sysml.org/diagrammes-uml-et-sysml/diagramme-uml/use-case-diagramme) et [cet article](http://www.visual-paradigm.com/product/vpuml/tutorials/extendusecasediagrambystereotype.jsp)
+Très inspiré de [cette introduction [fr]](http://www.uml-sysml.org/diagrammes-uml-et-sysml/diagramme-uml/use-case-diagramme) et [cet article [en]](http://www.visual-paradigm.com/product/vpuml/tutorials/extendusecasediagrambystereotype.jsp)
 
-Réalisé avec [reveal.js](https://github.com/hakimel/reveal.js)
+### Autres sources :
+- [Cours UML (uml.free.fr) [fr]](http://uml.free.fr/) notamment la partie sur la [conceptualisation et le modèle Use Case](http://uml.free.fr/cours/p10.html#concept)
+
+Réalisé avec [reveal.js [en]](https://github.com/hakimel/reveal.js)
 
 ---
 

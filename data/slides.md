@@ -56,3 +56,13 @@ Note:
 
 ## Exemple
 ![exemple](images/exemple.png "Exemple")
+
+
+
+## Outils
+- [Violet UML Editor](http://alexdp.free.fr/violetumleditor/page.php)
+- [VPUML](http://www.visual-paradigm.com/solution/freeumltool/)
+- [ArgoUML](http://argouml.tigris.org/)
+- [umbrello](http://umbrello.kde.org/)
+- [Netbeans 6.x](http://www.netbeans.info/downloads/dev.php) + [Plugin UML](http://plugins.netbeans.org/plugin/1801/netbeans-uml)
+- [Netbeans 7.x](https://netbeans.org/downloads/index.html) + [PlantUML](http://plugins.netbeans.org/plugin/49069/plantuml)
