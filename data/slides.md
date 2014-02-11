@@ -66,3 +66,11 @@ Note:
 - [umbrello](http://umbrello.kde.org/)
 - [Netbeans 6.x](http://www.netbeans.info/downloads/dev.php) + [Plugin UML](http://plugins.netbeans.org/plugin/1801/netbeans-uml)
 - [Netbeans 7.x](https://netbeans.org/downloads/index.html) + [PlantUML](http://plugins.netbeans.org/plugin/49069/plantuml)
+
+
+
+## Ressources & Crédits
+- [uml-sysml.org [fr]](http://www.uml-sysml.org/diagrammes-uml-et-sysml/diagramme-uml/use-case-diagramme)
+- [visual-paradigm.com [en]](http://www.visual-paradigm.com/product/vpuml/tutorials/extendusecasediagrambystereotype.jsp)
+- [uml.free.fr [fr]](http://uml.free.fr/) notamment: 
+  - [Conceptualisation et modèle Use Case [fr]](http://uml.free.fr/cours/p10.html#concept)
