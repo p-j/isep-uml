@@ -74,3 +74,15 @@ Note:
 - [visual-paradigm.com [en]](http://www.visual-paradigm.com/product/vpuml/tutorials/extendusecasediagrambystereotype.jsp)
 - [uml.free.fr [fr]](http://uml.free.fr/) notamment: 
   - [Conceptualisation et modèle Use Case [fr]](http://uml.free.fr/cours/p10.html#concept)
+
+
+
+## Questions ?
+
+---
+
+|         |                                                       | 
+| ------- | ----------------------------------------------------- | 
+| Email   | [jparker@isep.fr](jparker@isep.fr)                    | 
+| Twitter | [@jeremie_parker](https://twitter.com/jeremie_parker) | 
+| GitHub  | [p-j/isep-fsnp](https://github.com/p-j/isep-fsnp)     | 
